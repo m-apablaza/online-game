@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+#landing-page, #quiz-page, #result-page {
+    padding: 20px;
+}
+
+#player-name {
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+#options {
+    margin-top: 20px;
+}
+
+.option {
+    display: block;
+    margin: 10px 0;
+}
